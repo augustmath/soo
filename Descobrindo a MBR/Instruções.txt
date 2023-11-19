@@ -1,0 +1,1 @@
+Executar primeiramente o creatembr.c, e após ele, o main.c
